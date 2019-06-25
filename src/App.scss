@@ -21,11 +21,18 @@ $red: #ee4525;
     margin-bottom: 4px;
   }
 
+  .create_task_btn {
+    background: $dark-grey;
+    border-color: $dark-grey;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+
   .card {
     background: $dark-grey;
 
     table {
-      tbody>tr:nth-child(1)> td {
+      tbody > tr:nth-child(1) > td {
         border-top: 0;
       }
 

@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from "react";
-import { Card, Table, Row } from "react-bootstrap";
+import { Card, Table } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import api from "../../../api.js";
 
